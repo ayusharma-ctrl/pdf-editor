@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project locally.
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ayusharma-ctrl/pdf-editor
+git clone https://github.com/ayusharma-ctrl/pdf-editor.git
 ```
 
 ### Backend Setup
