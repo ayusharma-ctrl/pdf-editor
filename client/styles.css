@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 20px;
+    gap: 2rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 2rem;
+}
+
+#pdf-container {
+    width: 90%;
+    height: 30rem;
+    align-self: center;
+    overflow-y: auto;
+}
